@@ -1,5 +1,5 @@
 # geo-convo-server
-> Archived. This repository is frozen because Twitter isn't Twitter anymore, and this codebase is very out of date. I'm confident the same ideas could be readily applied to X or other social media platforms.
+> **Archived.** This repository is frozen because Twitter isn't Twitter anymore, and this codebase is very out of date. I'm confident the same ideas could be readily applied to X or other social media platforms.
 
 Twitter conversation scanning and mapping tool, made with SpringBoot, Kotlin, OpenLayers3 and jQuery Mobile.
 
